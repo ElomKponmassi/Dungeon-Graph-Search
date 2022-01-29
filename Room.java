@@ -1,5 +1,3 @@
-package edu.frostburg.cosc310.projects.Graphs;
-
 import java.util.ArrayList;
 
 public class Room {
